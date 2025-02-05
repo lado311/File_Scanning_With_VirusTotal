@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ANpFSlwbu2kWMYCSP39WplEI5PnM2uFiwFaJ4DRkDOQ=",
+  "Source": "ImageUploudSource",
+  "BasePath": "_content/ImageUploudSource",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
